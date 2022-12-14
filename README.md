@@ -1,2 +1,2 @@
-# Machine-Learning-on-Cinema-Tickets
+# Machine-Learning-Project
 Cinema Tickets
